@@ -1,0 +1,10 @@
+bin/
+obj/
+analysis-output/
+
+cell_*.png
+grid.png
+lines_detected.png
+page.png
+score_table.png
+temp.png
